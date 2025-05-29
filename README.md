@@ -19,7 +19,7 @@ To create a decentralized, trustless stablecoin that maintains price stability w
 - Owner-controlled parameters for adjustment factor and target price.
 
 ## Future Scope
-- Integration with decentralized oracles like Chainlink or Band Protocol.
+- Integration with decentralized oracles like Chainlink or Band Protocol.rt
 - Advanced collateral management with multiple asset support.
 - Governance mechanism to allow decentralized parameter tuning.
 - Implementation of dynamic adjustment factors based on market volatility.
