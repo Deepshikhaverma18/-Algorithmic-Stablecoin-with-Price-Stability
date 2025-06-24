@@ -1,4 +1,4 @@
-# Algorithmic Stablecoin with Price Stability
+## Algorithmic Stablecoin with Price Stability
 
 ## Project Title
 Algorithmic Stablecoin with Price Stability
@@ -27,4 +27,4 @@ To create a decentralized, trustless stablecoin that maintains price stability w
 
 ## Contract details
 0x50d9F4258E4bC26Bc161895871BF19a51983Fc21![alt text](image.png)
-project created  by Deepshikha verma
+this project is created  by Deepshikha verma
