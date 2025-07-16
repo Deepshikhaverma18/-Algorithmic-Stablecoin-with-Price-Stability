@@ -5,7 +5,7 @@ Algorithmic Stablecoin with Price Stability
 
 ## Project Description
 
-This project implements an algorithmic stablecoin on Ethereum-compatible networks that maintains price stability via supply adjustments. It integrates a price oracle and automatically mints or burns tokens to keep the stablecoin pegged to a target price (e.g., $1).
+This project implementtation an algorithmic stablecoin on Ethereum-compatible networks that maintains price stability via supply adjustments. It integrates a price oracle and automatically mints or burns tokens to keep the stablecoin pegged to a target price (e.g., $1).
 
 ## Project Vision
 
