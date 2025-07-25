@@ -27,4 +27,4 @@ To create a decentralized, trustless stablecoin that maintains price stability w
 
 ## Contract details
 0x50d9F4258E4bC26Bc161895871BF19a51983Fc21![alt text](image.png)
-this project is created by Deepshikha verma
+this project created by Deepshikha verma .
