@@ -5,7 +5,7 @@ Algorithmic Stablecoin with Price Stability
 
 ## Project Description
 
-This project implement an algorithmic stablecoins on Ethereum-compatible networks that maintains price stability via supply adjustments. It integrates a price oracles and automatically mints or burns tokens to keep the stablecoin pegged to a target prices (e.g., $1).
+This project implement an algorithmic stablecoins on Ethereum-compatible networks that maintains price stability via supply adjustments. It integrate a price oracles and automatically mints or burns tokens to keep the stablecoin pegged to a target prices (e.g., $1).
 
 ## Project Vision
 
@@ -18,7 +18,7 @@ To create a decentralized, trustless stablecoin that maintains price stability w
 - Mint and redeem stablecoins against ETH (simplified).
 - Owner-controlled parameters for adjustment factor and target price.
 
-## Future Scope
+## Future Scopes
 - Integration with decentralized oracles like Chainlink or Band Protocol.rt
 - Advanced collateral management with multiple asset support.
 - Governance mechanism to allow decentralized parameter tuning.
