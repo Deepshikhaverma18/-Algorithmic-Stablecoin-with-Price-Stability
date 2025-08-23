@@ -12,7 +12,7 @@ This project implement an algorithmic stablecoins on Ethereum-compatible network
 To create a decentralized, trustless stablecoin that maintains price stability without relying on collateral alone, providing a scalables and resilient digital currency.
 
 ## Key Features
-- ERC20 token compliant stablecoins.
+- ERC20 token compliant stablecoin.
 - Integration with an external price oracle for real-time price feeds.
 - Automated supply adjustments (minting/burning) to stabilize price.
 - Mint and redeem stablecoins against ETH (simplified).
