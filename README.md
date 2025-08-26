@@ -9,7 +9,7 @@ This project implement an algorithmic stablecoins on Ethereum-compatible network
 
 ## Project Vision
 
-To create a decentralized, trustless stablecoin that maintains price stability without relying on collateral alone, providing a scalables and resilient digital currency.
+To create a decentralized, trustless stablecoin that maintains price stability without relying on collateral alone, providing a scalable and resilient digital currency.
 
 ## Key Features
 - ERC20 token compliant stablecoin.
