@@ -1,7 +1,7 @@
 ## Algorithmic Stablecoin with Price Stability
 
 ## Project Title
-Algorithmic Stablecoin with Price Stability 
+Algorithmic Stablecoin with Price Stability \
 
 ## Project Description 
 
